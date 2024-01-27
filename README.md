@@ -20,7 +20,8 @@ _{"delivery_fee": 710}_
  # Steps #
 This API relies on FastAPI Swagger UI. Please redirect to url: http://127.0.0.1:8000/docs (or/your/own/port/docs) to execute the calculator. 
 
-Steps:   
-1. In Swagger UI, click POST  -> Try it out; 
-2. Type the request in the Request body;   
-3. Click Execute.
+Steps: 
+1. Run main.py;
+2. Redirect to url: http://127.0.0.1:8000/docs. In Swagger UI, click POST  -> Try it out; 
+3. Type the request in the Request body;   
+4. Click Execute.
