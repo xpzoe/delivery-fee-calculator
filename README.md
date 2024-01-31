@@ -27,7 +27,7 @@ Steps:
 4. Click Execute.
 # Test # 
 A pytest script is provided to test examples without opening any http.
-Type the following in the directory.
+Type the following under /test.
 ```
 pytest -v
 ```
