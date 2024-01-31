@@ -25,3 +25,9 @@ Steps:
 2. Redirect to url: http://127.0.0.1:8000/docs. In Swagger UI, click POST  -> Try it out; 
 3. Type the request in the Request body;   
 4. Click Execute.
+# Test # 
+A pytest script is provided to test examples without opening any http.
+Type the following in the directory.
+```
+pytest -v
+```
